@@ -101,6 +101,7 @@ def load_books_tags(app):
                                       
 
 
+
 def first_book(app):
     """
     Devuelve el primer libro cargado en el conjunto de libros
